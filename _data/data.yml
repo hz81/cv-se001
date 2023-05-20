@@ -11,7 +11,7 @@ sidebar:
 
     # Profile information
     name: Herry Zhouldy
-    tagline: System Analyst
+    tagline: System Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,11 +31,12 @@ sidebar:
     characters:
       title: Characters
       info:
-        - item: Self-determined and motivated achiever
-        - item: High initiative and proactive
+        - item: Self-determined and motivated achiever; Result driven
+        - item: High initiative and proactive; Positive can-do attitude
         - item: Love to contribute; Excellent team player
         - item: Passionate to learn new things; Easy to adapt person
         - item: Keen to find solutions; Problem-solving oriented
+        - item: Well organized person; Attention do detail
         - item: Friendly and attentive listener
 
     languages:
@@ -95,11 +96,11 @@ qualifications:
 highlights:
     title: Highlights
     summary: |
-      - Experienced System Analyst (+10 years of experience)
-      - Competent in most phases of the software development life cycle (SDLC)
-      - Proficient at interpreting business requirements into applicable solutions
-      - Proven success in designing web and mobile application architecture
-      - Familiar with the concepts of UI/UX, PWA, and web/mobile applications
+      - Experienced System Engineer (+10 years of experience)
+      - Competent in most phases of the Agile project management methodology
+      - Proficient in identifying, troubleshooting, and resolving issues or problems related to technical computer hardware and software.
+      - Proven success in maintaining communication with users during the resolution of the issue and conveying progress updates in the most friendly way possible
+      - Familiar with Microsoft and Linux Ubuntu environment
       - Experience in maintaining legacy systems while progressing the upgrades
       - A diligent and productive team player who accentuates communication across all lines
       - A potential leader for a small yet effective team
@@ -109,13 +110,13 @@ skills-attributes:
     title: Skills Attributes
     skill:
       - title: Analysis skill
-        desc: "Solid understanding of translating business requirements into applicable solutions; Proficient in constructing business process modelling using BPMN tools; Great at constructing API documentation and data modelling"
+        desc: "Solid understanding of translating requirements into applicable solutions; Perform effective troubleshooting in all cases and properly solve the issue by applying best practices methods that will hold for the longest time possible"
 
       - title: Problem-solving skill
         desc: "A broad range of experience in applying best practise approaches to come up with creative workaround solutions; Demonstrated success in maintaining legacy systems during upgrades"
 
       - title: Management skill
-        desc: "Adept at managing the priorities of the product roadmap and backlog; Competent in delivering projects using the Agile method, as proven by completing projects that convert into products"
+        desc: "Adept at managing the priorities of the product/service roadmap and backlog; Competent in delivering projects using the Agile method, as proven by completing projects that convert into products/services"
 
       - title: Organization skill
         desc: "Confident in managing the expectations of users and stakeholders; Capable of establishing collaboration between teams, departments, and senior management"
@@ -124,7 +125,7 @@ skills-attributes:
         desc: "Proven ability to build stakeholder and user engagement; Oversee the implementation of product changes and communicate the impact to stakeholders, users, customers, and teams"
 
       - title: Communication skill
-        desc: Good written and verbal communication skills
+        desc: "Good written and verbal communication skills; Competent languages: English (Professional), Bahasa (Native)"
 
 skills-tech:
     title: Technical Skills
@@ -154,7 +155,7 @@ skills-tech:
         level: 90%
 
       - group: "Collaboration App"
-        name: "Github, Office365, Google Workspace, Jira Software"
+        name: "Github, M65, Google Workspace, Jira"
         level: 90%
 
 achievements:
@@ -196,7 +197,7 @@ achievements:
 experiences:
     title: Experiences
     info:
-      - role: Senior System Analyst
+      - role: System Engineer
         time: Jun 2022 - Present
         company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
         site: https://xcidic.com
@@ -216,7 +217,7 @@ experiences:
             - Managed a team of coders to perform their best in delivering good-quality products
             - Implemented ITSM to the ongoing product maintenance
             - Implemented project life-cycle procedure as a company guideline to manage projects
-      - role: Senior System Analyst
+      - role: System Administrator
         time: Apr 2019 - May 2022
         company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
         site: https://www.kdbtifa.co.id/en
@@ -236,7 +237,7 @@ experiences:
             - Established and configured Git repository environment under the Ubuntu Linux platform
             - Established a standard decision support system in the form of dashboard performance views using Data Studio tools
             - Revamped a company profile website, complete with its Content Management System (CMS)
-      - role: System Analyst
+      - role: System Support Engineer
         time: Jan 2012 - Feb 2019
         company: Manulife Financial - Life Insurance Company
         site: https://www.manulife.co.id
