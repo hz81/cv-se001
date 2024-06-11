@@ -3,7 +3,7 @@
 #
 
 headermenu:
-    cover-letter: https://1drv.ms/w/s!AvF_WyEroz-p0bFfbp2LF5k12tFl8w?e=ayH14c
+    cover-letter: https://1drv.ms/w/s!AvF_WyEroz-p0eZKSJesv1ztBFNFTA?e=Wxjlei
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -11,22 +11,20 @@ sidebar:
 
     # Profile information
     name: Herry Zhouldy
-    tagline: System Engineer
+    tagline: Systems Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: zould1618@gmail.com
     phone: +6422 496 9030
-    address: 8 Rachel Place, Avonhead, Christchurch
-    youtube: Video CV
-    youtube-link: https://youtu.be/oiPoiaduO7o
+    address: Halswell, Christchurch
     linkedin: zould1618
     linkedin-link: https://id.linkedin.com/in/zould1618
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
     website-link: https://se1.hzy10.com
-    download-pdf: https://1drv.ms/w/s!AvF_WyEroz-p0bFehKsBt9SMQGiE0A?e=kupu9n
+    download-pdf: https://1drv.ms/w/s!AvF_WyEroz-p0eZLmcjsQ-G6zueV_g?e=XITOSl
 
     characters:
       title: Characters
@@ -96,7 +94,7 @@ qualifications:
 highlights:
     title: Professional Summary
     summary: |
-        Success-oriented System Engineer with 10+ years of industry expertise. <br>
+        Success-oriented Systems Engineer with 10+ years of industry expertise. <br>
         Skilled in all stages of Agile software development life cycle. <br> 
         Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
         Proven success in keeping communication during the resolution, and conveying progress updates in the most friendly way possible. <br>
@@ -108,17 +106,30 @@ highlights:
 experiences:
     title: Experiences
     info:
-      - role: System Engineer
-        time: Jun 2022 - Present
+      - role: Application Support Specialist
+        time: Jul 2023 - Jul 2024
+        company: Ryman Healthcare Ltd, Christchurch • Healthcare Services & Property Development
+        site: https://www.rymanhealthcare.co.nz
+        details: |
+            - Organised and performed installation upgrades, patches, and hot fixes for a portfolio of applications assigned. Within less than a year had delivered 3 upgrades for Manad Plus, 1 upgrade for Service Now from Tokyo to Vancouver version, 1 upgrade and 1 patches for Assura, and 1 upgrade for Vcare.
+            - Developed and promoted 6 Service Now service catalog items that cover maintained products such as Adobe, Acuite, Greentree, Salesforce, Procore, and Business Enhancement Form.
+            - Setup and configure automated synchronisation for Officevibe’s user group using Active Directory and Dynamic Group.
+            - Led and directed SSO initial configuration for Upguard, a third-party risk and attack surface management software.
+            - Created Sailpoint user access review campaign of office and village users for 2023 audit purpose.
+            - Troubleshooting issues while maintaining communication with stakeholders during the resolution time. Managed to keep 95% of tickets assigned within the SLA time.
+            - Providing level 2 and 3 escalation point of support.
+            - Managing user access roles, permission, profiles, and groups on application level.            
+      - role: Systems Engineer
+        time: Jun 2022 - Jun 2023
         company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
         site: https://xcidic.com
         details: |
-            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects..
+            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects.
             - Orchestrated requirement gathering session to align with internal and external stakeholders. More than 96% of the requirements have been delivered accordingly and in a timely manner.
             - Directed a 6-member cross-functional (coders, QA, and UI/UX) team to deploy a cutting-edge mobile app that is secure and reliable, simplifying payment and class management for parents, students, and educators. It contributes up to 40% of the organisation’s annual income.
             - Established code-base templates and DevSecOps procedures to accelerate the development process up to 50% while making it secure and reliable by implementing Software Composition Analysis (SCA) tools.
             - Implemented ITSM in product maintenance, which increased the continuity of the strategic partnership with the client by up to 85%.
-      - role: System Engineer
+      - role: Systems Engineer
         time: Apr 2019 - May 2022
         company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
         site: https://www.kdbtifa.co.id/en
@@ -154,29 +165,29 @@ skills-tech:
         name: "Windows, Linux Ubuntu"
         level: 95%
 
-      - group: "Language"
-        name: "SQL, C#, TypeScript, JavaScript, HTML, CSS, VB"
-        level: 80%
+      - group: "Collaboration & Cloud services"
+        name: "Azure, Active Directory, M65, AWS, Jira, Github, Google Workspace"
+        level: 90%
+
+      - group: "Utilities App"
+        name: "VMware, XCP-ng, WinBox, IIS"
+        level: 90%
 
       - group: "Database"
         name: "SQL Server, Oracle, MySQL, PostgreSQL"
         level: 90%
 
-      - group: "Framework"
-        name: ".Net, MVC, React.js, Node.js"
-        level: 80%
-
       - group: "Environment"
         name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL"
         level: 85%
+        
+      - group: "Language"
+        name: "SQL, C#, TypeScript, JavaScript, HTML, CSS, VB"
+        level: 80%
 
-      - group: "Utilities App"
-        name: "IIS, VMware, XCP-ng, WinBox"
-        level: 90%
-
-      - group: "Collaboration & Cloud services"
-        name: "Github, M65, Google Workspace, Jira, Azure Active Directory, AWS"
-        level: 90%
+      - group: "Framework"
+        name: ".Net, MVC, React.js, Node.js"
+        level: 80%        
 
 skills-attributes:
     title: Skills Attributes
@@ -223,13 +234,6 @@ achievements:
           - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
             urldesc: CMS
             urlatt:
-      - desc: "Administered a customised ERP system during an upgrade process, including providing a staging site for trial"
-        links:
-          - url: http://202.157.189.196:7799
-            urldesc: ERP System
-            urlatt: |
-              User ID: herryzh1 <br>
-              Password: H3l2ryzh07~
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
