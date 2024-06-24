@@ -23,8 +23,8 @@ sidebar:
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://se1.hzy10.com
-    download-pdf: https://1drv.ms/w/s!AvF_WyEroz-p0ehSfrM7iUSrsdW4RA?e=4kQKM4
+    website-link: https://se0011.hzy10.com
+    download-file: https://1drv.ms/w/s!AvF_WyEroz-p0ehSfrM7iUSrsdW4RA?e=4kQKM4
 
     characters:
       title: Characters
@@ -77,7 +77,7 @@ qualifications:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Bachelor in Computerized Accounting Systems
+      - degree: Bachelor in Information Systems Management
         university: Binus University of Jakarta
         time: 2000 - 2004
         gpa: "GPA: 3.04"
@@ -94,14 +94,15 @@ qualifications:
 highlights:
     title: Professional Summary
     summary: |
-        Success-oriented Systems Engineer with 10+ years of industry expertise. <br>
+        Success-oriented Systems Engineer with 10+ years of industry expertise, <br>
+        primarily as a support engineer across multiple organisations critical systems. <br>
         Skilled in all stages of Agile software development life cycle. <br> 
         Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
-        Proven success in keeping communication during the resolution, and conveying progress updates in the most friendly way possible. <br>
+        With a positive can-do attitude and a dedicated learner aiming to enhance lives through innovation, <br>
+        I have proven success in maintaining communication during the resolution and conveying progress updates in the friendliest way possible. <br>
         Familiar with Microsoft and Linux Ubuntu ecosystem. <br>
-        Proficient in nurturing legacy systems while driving upgrades. <br>
-        High-productive and easy-to-adapt person. <br>
-        A positive can-do attitude and a dedicated learner aiming to enhance lives through innovation.
+        Proficient in nurturing legacy systems while implementing upgrades. <br>
+        Highly-productive and easy-to-adapt person.
 
 experiences:
     title: Experiences
