@@ -179,7 +179,7 @@ skills-tech:
         level: 80%
 
       - group: "Environment"
-        name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL, Ms. Power BI, Google Looker Studio"
+        name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL, Ms. Power BI, Google Looker Studio, Service Now"
         level: 85%
 
       - group: "Language"
