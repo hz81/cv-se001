@@ -98,7 +98,7 @@ highlights:
         primarily as a support engineer across multiple organisations critical systems. <br>
         Skilled in all stages of Agile software development life cycle. <br> 
         Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
-        With a positive can-do attitude and a dedicated learner aiming to enhance lives through innovation,
+        With a positive can-do attitude and as a dedicated learner aiming to enhance lives through innovation,
         I have proven success in maintaining communication during the resolution and conveying progress updates in the friendliest way possible. <br>
         Familiar with Microsoft and Linux Ubuntu ecosystem. <br>
         Proficient in nurturing legacy systems while implementing upgrades. <br>
@@ -112,8 +112,8 @@ experiences:
         company: Ryman Healthcare Ltd, Christchurch • Healthcare Services & Property Development
         site: https://www.rymanhealthcare.co.nz
         details: |
-            - Organised and performed installation upgrades, patches, and hot fixes for a portfolio of applications assigned. Within less than a year had delivered 3 upgrades for Manad Plus, 1 upgrade for Service Now from Tokyo to Vancouver version, 1 upgrade and 1 patches for Assura, and 1 upgrade for Vcare.
-            - Developed and promoted 6 Service Now service catalog items that cover maintained products such as Adobe, Acuite, Greentree, Salesforce, Procore, and Business Enhancement Form.
+            - <b>Technical Project Management</b>: Organised and performed installation upgrades, patches, and hot fixes for a portfolio of applications assigned. Delivered five upgrades for three tier one applications and an upgrade for ServiceNow from Tokyo to Vancouver version.
+            - <b>System Integration</b>: Developed and established integration point between ServiceNow and Azure DevOps to facilitate Agile work stream. Configured automated synchronisation for WorkLeap’s user group using Active Directory and Dynamic Group.
             - Setup and configure automated synchronisation for Officevibe’s user group using Active Directory and Dynamic Group.
             - Led and directed SSO initial configuration for Upguard, a third-party risk and attack surface management software.
             - Created Sailpoint user access review campaign of office and village users for 2023 audit purpose.
@@ -162,33 +162,33 @@ experiences:
 skills-tech:
     title: Technical Skills
     toolset:
-      - group: "System" 
-        name: "Windows, Linux Ubuntu"
-        level: 95%
-
-      - group: "Collaboration & Cloud services"
-        name: "Azure, Active Directory, M65, AWS, Jira, Github, Google Workspace"
+      - group: "Cloud & collaboration services"
+        name: "Azure, Active Directory, M365, Github, Google Workspace, Jira, AWS"
         level: 90%
 
-      - group: "Utilities App"
-        name: "VMware, XCP-ng, WinBox, IIS"
+      - group: "Infrastructure" 
+        name: "IIS, VMware, XCP-ng, Winbox"
         level: 90%
 
       - group: "Database"
         name: "SQL Server, Oracle, MySQL, PostgreSQL"
         level: 90%
 
+      - group: "Framework"
+        name: ".Net, MVC, ReactJS, NodeJS"
+        level: 80%
+
       - group: "Environment"
-        name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL"
+        name: "SSMS, Ms. Visual Studio, VS. Code, PL/SQL, Ms. Power BI, Google Looker Studio"
         level: 85%
-        
+
       - group: "Language"
         name: "SQL, C#, TypeScript, JavaScript, HTML, CSS, VB"
         level: 80%
 
-      - group: "Framework"
-        name: ".Net, MVC, React.js, Node.js"
-        level: 80%        
+      - group: "Operating System" 
+        name: "Windows, Linux Ubuntu"
+        level: 95%
 
 skills-attributes:
     title: Skills Attributes
