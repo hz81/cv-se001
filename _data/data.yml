@@ -94,12 +94,12 @@ qualifications:
 highlights:
     title: Professional Summary
     summary: |
-        Success-oriented Systems Engineer with 10+ years of industry expertise, <br>
-        primarily as a support engineer across multiple organisations critical systems. <br>
-        Skilled in all stages of Agile software development life cycle. <br> 
+        A success-oriented Systems Engineer with 10+ years of industry expertise, <br>
+        primarily as a support engineer across multiple organisations' critical systems. <br>
+        Skilled in Agile software development life cycle. <br> 
         Competent in identifying, troubleshooting, and resolving problems related to technical computer hardware and software. <br>
         A positive can-do attitude and a dedicated learner aiming to enhance lives through innovation, 
-        who has proven success in maintaining communication during the resolution and conveying progress updates in the friendliest way possible.<br>
+        who has proven success in maintaining communication during the resolution and conveying progress updates with a friendly manner.<br>
         Familiar with Microsoft and Linux Ubuntu ecosystem. <br>
         Proficient in nurturing legacy systems while implementing upgrades. <br>
         Highly-productive and easy-to-adapt person.
@@ -113,7 +113,7 @@ experiences:
         site: https://www.rymanhealthcare.co.nz
         details: |
             - <b>Technical Project Management</b>: Organised and performed installation upgrades, patches, and hot fixes for a portfolio of applications assigned. Delivered five upgrades for three tier one applications and an upgrade for ServiceNow from Tokyo to Vancouver version.
-            - <b>System Integration</b>: Developed and established integration point between ServiceNow and Azure DevOps to facilitate Agile work stream. Configured automated synchronisation for WorkLeap’s user group using Active Directory and Dynamic Group.
+            - <b>System Integration</b>: Developed and established integration point between ServiceNow and Azure DevOps to facilitate Agile work stream. Configured automated synchronisation for WorkLeap’s user group using Active Directory and Dynamic Groups.
             - <b>ServiceNow Development</b>: Developed and promoted six ServiceNow forms to elevate user experience.
             - <b>Identity Management</b>: Designed Sailpoint’s user access review campaign for identity management audit purpose. Coordinated an initial SSO configuration for Upguard implementation, a third-party risk and attack surface management software. Managing user access roles, permission, profiles, and groups on application and database level.
             - Created Sailpoint user access review campaign of office and village users for 2023 audit purpose.
